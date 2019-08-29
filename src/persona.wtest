@@ -1,0 +1,8 @@
+import objetos.*
+import personas.*
+
+
+test "tstx Juan"
+{
+	assert.notThat(juan.leGusta(remera))
+}

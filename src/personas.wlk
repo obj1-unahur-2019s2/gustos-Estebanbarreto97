@@ -16,4 +16,4 @@ object juan{
 	method leGusta(objeto) { return not objeto.color().esFuerte() or return objeto.peso().between(1200, 1800) }
 }
 
-// agregar luisa y juan
+
